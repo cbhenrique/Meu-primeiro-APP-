@@ -1,0 +1,8 @@
+UserFavApp/
+├── src/
+│   ├── components/
+│   ├── screens/
+│   ├── services/
+│   ├── constants/
+│   ├── hooks/
+│   └── utils/
