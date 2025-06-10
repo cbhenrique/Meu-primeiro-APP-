@@ -48,10 +48,6 @@ yarn install
 npx expo start
 ```
 
-4. **Execute no dispositivo**:
-   - Use o app Expo Go no seu celular e escaneie o QR code
-   - Ou execute em simulador: `npx expo start --ios` ou `npx expo start --android`
-
 ## 📁 Estrutura do Projeto
 
 ```
