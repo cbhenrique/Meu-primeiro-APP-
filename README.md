@@ -119,14 +119,4 @@ O app usa `@expo/vector-icons` com ícones do Ionicons.
 - **Error**: Mostra mensagem de erro amigável
 - **Empty**: Indica quando não há dados para mostrar
 
-## 🚀 Próximos Passos
-
-Para expandir o aplicativo, você pode:
-
-1. **Adicionar mais telas**: Posts, Albums, TODOs
-2. **Implementar busca**: Filtrar usuários por nome/email
-3. **Adicionar modo offline**: Funcionar sem internet
-4. **Implementar sincronização**: Sync com servidor remoto
-5. **Adicionar autenticação**: Login de usuários
-6. **Melhorar UI/UX**: Animações e transições
 
