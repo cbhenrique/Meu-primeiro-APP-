@@ -6,7 +6,7 @@ Aplicativo React Native desenvolvido com Expo demonstra:
 - Navegação entre telas
 - Interface responsiva e moderna
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - **Lista de Usuários**: Carrega usuários da API JSONPlaceholder
 - **Sistema de Favoritos**: Permite favoritar/desfavoritar usuários
@@ -15,12 +15,12 @@ Aplicativo React Native desenvolvido com Expo demonstra:
 - **Pull to Refresh**: Atualização manual dos dados
 - **Cache Inteligente**: Sistema de cache para melhor performance
 
-## 📱 Telas
+## Telas
 
 1. **Usuários**: Lista todos os usuários da API com opção de favoritar
 2. **Favoritos**: Mostra apenas os usuários favoritados localmente
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **React Native**: Framework principal
 - **Expo**: Plataforma de desenvolvimento
@@ -28,7 +28,7 @@ Aplicativo React Native desenvolvido com Expo demonstra:
 - **React Navigation**: Navegação entre telas
 - **JSONPlaceholder API**: API pública para dados de teste
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 src/
@@ -45,7 +45,7 @@ src/
     └── storage.js      # Chaves do AsyncStorage
 ```
 
-## 🔧 Configuração da API
+## Configuração da API
 
 O app usa a API JSONPlaceholder por padrão, mas você pode alterar em `src/constants/config.js`:
 
@@ -59,7 +59,7 @@ export const API_CONFIG = {
 };
 ```
 
-## 💾 Funcionalidades do Armazenamento Local
+## Funcionalidades do Armazenamento Local
 
 ### Dados Persistidos:
 - **Favoritos**: IDs dos usuários favoritados
@@ -73,7 +73,7 @@ export const API_CONFIG = {
 - `getCachedUsers()`: Recupera cache de usuários
 - `clearAllData()`: Limpa todos os dados salvos
 
-## 🎨 Personalização
+## Personalização
 
 ### Cores do Tema:
 - Azul principal: `#007AFF`
@@ -83,7 +83,7 @@ export const API_CONFIG = {
 ### Ícones:
 O app usa `@expo/vector-icons` com ícones do Ionicons.
 
-## 📱 Recursos do App
+## Recursos do App
 
 - **Navegação intuitiva** com abas na parte inferior
 - **Pull to refresh** para atualizar dados
@@ -92,7 +92,7 @@ O app usa `@expo/vector-icons` com ícones do Ionicons.
 - **Interface responsiva** que se adapta a diferentes tamanhos de tela
 - **Avatares gerados** automaticamente para cada usuário
 
-## 🔄 Estados da Aplicação
+## Estados da Aplicação
 
 - **Loading**: Mostra indicador enquanto carrega dados
 - **Success**: Exibe dados normalmente
