@@ -1,6 +1,6 @@
 # React Native App com API e Armazenamento Local
 
-Este é um aplicativo React Native desenvolvido com Expo que demonstra:
+Aplicativo React Native desenvolvido com Expo demonstra:
 - Consumo de dados de uma API REST
 - Armazenamento local usando AsyncStorage
 - Navegação entre telas
@@ -27,26 +27,6 @@ Este é um aplicativo React Native desenvolvido com Expo que demonstra:
 - **AsyncStorage**: Armazenamento local
 - **React Navigation**: Navegação entre telas
 - **JSONPlaceholder API**: API pública para dados de teste
-
-## 📦 Instalação
-
-1. **Clone o repositório**:
-```bash
-git clone <seu-repositorio>
-cd react-native-api-storage-app
-```
-
-2. **Instale as dependências**:
-```bash
-npm install
-# ou
-yarn install
-```
-
-3. **Inicie o projeto**:
-```bash
-npx expo start
-```
 
 ## 📁 Estrutura do Projeto
 
